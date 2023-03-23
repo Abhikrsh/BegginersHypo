@@ -9,7 +9,7 @@ Id,target(Black Hole)
 7,Alpha Boreas
 8,Alpha Boreas
 9,Zeta Draconis
-10,Gamma Saggita
+10,Beta Eioneous
 11,Alpha Hemithea
 12,Zeta Draconis
 13,Gamma Saggita
@@ -20,7 +20,7 @@ Id,target(Black Hole)
 18,Zeta Draconis
 19,Beta Eioneous
 20,Zeta Draconis
-21,Alpha Boreas
+21,Gamma Saggita
 22,Gamma Saggita
 23,Zeta Draconis
 24,Alpha Hemithea
@@ -65,7 +65,7 @@ Id,target(Black Hole)
 63,Alpha Boreas
 64,Alpha Boreas
 65,Beta Eioneous
-66,Zeta Draconis
+66,Alpha Boreas
 67,Alpha Boreas
 68,Alpha Boreas
 69,Gamma Saggita
@@ -75,7 +75,7 @@ Id,target(Black Hole)
 73,Gamma Saggita
 74,Alpha Boreas
 75,Gamma Saggita
-76,Alpha Hemithea
+76,Zeta Draconis
 77,Alpha Boreas
 78,Zeta Draconis
 79,Gamma Saggita
@@ -135,7 +135,7 @@ Id,target(Black Hole)
 133,Gamma Saggita
 134,Beta Eioneous
 135,Alpha Boreas
-136,Zeta Draconis
+136,Alpha Boreas
 137,Alpha Hemithea
 138,Alpha Hemithea
 139,Alpha Hemithea
@@ -176,13 +176,13 @@ Id,target(Black Hole)
 174,Alpha Hemithea
 175,Beta Eioneous
 176,Alpha Boreas
-177,Alpha Boreas
+177,Gamma Saggita
 178,Alpha Hemithea
 179,Zeta Draconis
 180,Zeta Draconis
 181,Beta Eioneous
 182,Beta Eioneous
-183,Alpha Boreas
+183,Beta Eioneous
 184,Zeta Draconis
 185,Alpha Boreas
 186,Beta Eioneous
@@ -221,7 +221,7 @@ Id,target(Black Hole)
 219,Beta Eioneous
 220,Beta Eioneous
 221,Zeta Draconis
-222,Gamma Saggita
+222,Alpha Boreas
 223,Zeta Draconis
 224,Alpha Hemithea
 225,Zeta Draconis
@@ -231,7 +231,7 @@ Id,target(Black Hole)
 229,Alpha Hemithea
 230,Beta Eioneous
 231,Beta Eioneous
-232,Alpha Boreas
+232,Zeta Draconis
 233,Gamma Saggita
 234,Gamma Saggita
 235,Zeta Draconis
@@ -253,7 +253,7 @@ Id,target(Black Hole)
 251,Gamma Saggita
 252,Alpha Hemithea
 253,Gamma Saggita
-254,Zeta Draconis
+254,Beta Eioneous
 255,Beta Eioneous
 256,Gamma Saggita
 257,Alpha Boreas
@@ -261,7 +261,7 @@ Id,target(Black Hole)
 259,Beta Eioneous
 260,Beta Eioneous
 261,Zeta Draconis
-262,Zeta Draconis
+262,Gamma Saggita
 263,Alpha Hemithea
 264,Alpha Hemithea
 265,Gamma Saggita
@@ -296,16 +296,16 @@ Id,target(Black Hole)
 294,Alpha Boreas
 295,Beta Eioneous
 296,Zeta Draconis
-297,Alpha Boreas
+297,Gamma Saggita
 298,Alpha Hemithea
 299,Gamma Saggita
 300,Beta Eioneous
 301,Alpha Hemithea
 302,Gamma Saggita
 303,Gamma Saggita
-304,Gamma Saggita
-305,Alpha Boreas
-306,Zeta Draconis
+304,Beta Eioneous
+305,Beta Eioneous
+306,Alpha Hemithea
 307,Beta Eioneous
 308,Alpha Boreas
 309,Beta Eioneous
@@ -318,10 +318,10 @@ Id,target(Black Hole)
 316,Gamma Saggita
 317,Zeta Draconis
 318,Zeta Draconis
-319,Alpha Hemithea
+319,Zeta Draconis
 320,Alpha Hemithea
 321,Zeta Draconis
-322,Zeta Draconis
+322,Alpha Boreas
 323,Alpha Boreas
 324,Zeta Draconis
 325,Zeta Draconis
@@ -332,7 +332,7 @@ Id,target(Black Hole)
 330,Alpha Boreas
 331,Alpha Hemithea
 332,Gamma Saggita
-333,Beta Eioneous
+333,Gamma Saggita
 334,Alpha Hemithea
 335,Alpha Hemithea
 336,Zeta Draconis
@@ -377,7 +377,7 @@ Id,target(Black Hole)
 375,Alpha Hemithea
 376,Gamma Saggita
 377,Beta Eioneous
-378,Zeta Draconis
+378,Gamma Saggita
 379,Alpha Hemithea
 380,Gamma Saggita
 381,Alpha Hemithea
@@ -388,7 +388,7 @@ Id,target(Black Hole)
 386,Beta Eioneous
 387,Gamma Saggita
 388,Alpha Boreas
-389,Alpha Boreas
+389,Zeta Draconis
 390,Gamma Saggita
 391,Alpha Boreas
 392,Gamma Saggita
@@ -399,7 +399,7 @@ Id,target(Black Hole)
 397,Beta Eioneous
 398,Alpha Hemithea
 399,Alpha Boreas
-400,Gamma Saggita
+400,Alpha Hemithea
 401,Zeta Draconis
 402,Beta Eioneous
 403,Beta Eioneous
@@ -419,7 +419,7 @@ Id,target(Black Hole)
 417,Alpha Boreas
 418,Gamma Saggita
 419,Alpha Hemithea
-420,Alpha Boreas
+420,Zeta Draconis
 421,Alpha Hemithea
 422,Zeta Draconis
 423,Zeta Draconis
@@ -427,7 +427,7 @@ Id,target(Black Hole)
 425,Alpha Hemithea
 426,Zeta Draconis
 427,Gamma Saggita
-428,Alpha Boreas
+428,Beta Eioneous
 429,Zeta Draconis
 430,Beta Eioneous
 431,Alpha Hemithea
@@ -453,7 +453,7 @@ Id,target(Black Hole)
 451,Zeta Draconis
 452,Gamma Saggita
 453,Zeta Draconis
-454,Alpha Hemithea
+454,Alpha Boreas
 455,Alpha Boreas
 456,Alpha Hemithea
 457,Alpha Boreas
@@ -465,7 +465,7 @@ Id,target(Black Hole)
 463,Gamma Saggita
 464,Beta Eioneous
 465,Zeta Draconis
-466,Zeta Draconis
+466,Alpha Boreas
 467,Gamma Saggita
 468,Zeta Draconis
 469,Alpha Boreas
